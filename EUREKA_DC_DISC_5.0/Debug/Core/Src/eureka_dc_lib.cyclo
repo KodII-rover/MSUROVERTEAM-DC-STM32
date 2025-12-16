@@ -1,0 +1,13 @@
+../Core/Src/eureka_dc_lib.c:9:5:dc_init	1
+../Core/Src/eureka_dc_lib.c:17:5:dc_set_pulse	4
+../Core/Src/eureka_dc_lib.c:36:5:dc_set_pulse_A1A2	13
+../Core/Src/eureka_dc_lib.c:56:5:dc_calculate_period	1
+../Core/Src/eureka_dc_lib.c:66:5:dc_calculate_velocity	4
+../Core/Src/eureka_dc_lib.c:112:5:dc_pid	5
+../Core/Src/eureka_dc_lib.c:125:5:stepper_init	1
+../Core/Src/eureka_dc_lib.c:131:5:stepper_set	13
+../Core/Src/eureka_dc_lib.c:167:5:stepper_calculate_angle	2
+../Core/Src/eureka_dc_lib.c:178:5:stepper_logic	4
+../Core/Src/eureka_dc_lib.c:207:7:abs_float	2
+../Core/Src/eureka_dc_lib.c:214:5:sign_float	2
+../Core/Src/eureka_dc_lib.c:221:7:clamp_float	3
